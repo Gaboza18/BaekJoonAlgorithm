@@ -1,7 +1,8 @@
+package FOR;
+
 import java.util.Scanner;
 
-public class Main {
-
+public class Prac2742 {
     /*
      * 1~N 까지 역순으로 출력
      */
