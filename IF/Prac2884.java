@@ -1,7 +1,11 @@
+package IF;
+
 import java.util.Scanner;
 
-public class Main {
-
+/*
+    알람설정 문제: 기상시간 - 00:45 = 알람 울리는 문제
+*/
+public class Prac2884 {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
