@@ -1,7 +1,11 @@
+package FOR;
+
 import java.util.Scanner;
 
-public class Main {
-
+public class Prac2739 {
+    /*
+     * 출력하고 싶은 구구단의 단을 받아 출력하는 문제
+     */
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
