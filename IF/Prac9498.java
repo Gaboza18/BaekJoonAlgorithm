@@ -1,3 +1,4 @@
+package IF;
 import java.util.Scanner;
 
 public class Prac9498 {

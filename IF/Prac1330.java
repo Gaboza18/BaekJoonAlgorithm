@@ -1,3 +1,4 @@
+package IF;
 import java.util.Scanner;
 
 public class Prac1330 { // 두수를 입력받아 크기 비교하는 문제
