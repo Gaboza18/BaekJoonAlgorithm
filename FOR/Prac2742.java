@@ -13,7 +13,6 @@ public class Prac2742 {
         for (int i = number; i > 0; i--) { // N, N-1, (N-1)-1, ....
             System.out.println(i);
         }
-
         scanner.close();
     }
 }
