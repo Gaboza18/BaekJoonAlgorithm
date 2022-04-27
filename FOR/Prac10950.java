@@ -25,7 +25,6 @@ public class Prac10950 {
         for (int result : arr) { // 배열에 담겨있는 합을 하나씩 뽑아낸다
             System.out.println(result);
         }
-
         scanner.close();
     }
 }
